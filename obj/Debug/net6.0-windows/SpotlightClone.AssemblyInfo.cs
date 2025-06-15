@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotlightClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00f9267a66b6c9a3909893d61cc60670ddb8cb94")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotlightClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotlightClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

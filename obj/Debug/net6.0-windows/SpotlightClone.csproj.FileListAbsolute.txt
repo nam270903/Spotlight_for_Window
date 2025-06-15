@@ -17,3 +17,5 @@ E:\Documents\Spotlight_for_Window\obj\Debug\net6.0-windows\refint\SpotlightClone
 E:\Documents\Spotlight_for_Window\obj\Debug\net6.0-windows\SpotlightClone.pdb
 E:\Documents\Spotlight_for_Window\obj\Debug\net6.0-windows\SpotlightClone.genruntimeconfig.cache
 E:\Documents\Spotlight_for_Window\obj\Debug\net6.0-windows\ref\SpotlightClone.dll
+E:\Documents\Spotlight_for_Window\obj\Debug\net6.0-windows\SpotlightClone.sourcelink.json
+E:\Documents\Spotlight_for_Window\obj\Debug\net6.0-windows\App.baml
